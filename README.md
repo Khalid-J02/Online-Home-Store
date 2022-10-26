@@ -34,15 +34,18 @@ This page will contains the List and the Footer found in the home page, and the 
 
 ## Payment Page:
 In this page the user is going to enter his own visa card information such that he could proceed in the payment process, So that the value of the products found in the cart will deducted from the card. The user should enter the information such Name, VISA id and expired date, and the CVV. We should note that the card is interactive such that while the user enter the information it will be filled on the card on the specific location, and when enter the CVV it will be flipped.
+
 ![PP1](READ_ME/PP1.png)
 ![PP2](READ_ME/PP2.png)
 
 ## Administrator Page:
 When the user sign in our website our system will recognize whether the user is a normal client or admin, if he is a client then the normal home page we mention earlier will appear for him, otherwise the admin page will appear. This page contain all the system information needed for the admin to keep track with our website, such as the customer, order, product information’s.
+
 ![AA2](READ_ME/AD1.png)
 
 ## Admin Products Page:
 This page will make the admin able to add products to the system, such as he will be required to give all the necessary information about the product such name, price, description, image for the product, and which department this product involve in. after clicking on the add button the system will check for all the information given by the admin, if there any field empty the system won’t add the product and will indicate the admin.
+
 ![AA1](READ_ME/AD2.png)
 
 ## Admin Clients Page:
