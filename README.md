@@ -1,4 +1,5 @@
 # Online-Home-Store
+This project was build by me and @TalaHamad. </br>
 Web-based project which will let the end users from ordering a good quality items for their home such as furniture and other stuff.</br></br>
 # Interfaces:
 ## Sign in Page:
