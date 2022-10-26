@@ -4,5 +4,10 @@ Web-based project which will let the end users from ordering a good quality item
 ## Sign in Page:
 This is the startup page which let the user enter his own account whether he/she a client or admin,  in case the user has an existing account in the website he will need to enter his Email and password to enter his account, and in case they don’t have an account in our website he will need to click on Sign up and start making an account.
 In case the user forgot his own password then he need to click on forgot password which will take him to the forgot password page, and we make the pages in our websites responsive. </br>
-<span   ![Sign-in-P1](READ_ME/Signin1.png)
-![Sign-in-P2](READ_ME/Signin2.png) </Span>
+![Sign-in-P1](READ_ME/Signin1.png)
+## Sign up Page:
+This page is for the new users who don’t have an account in our websites , they will be required to enter some personal information such as Email, username, address, and there password, the system will also recognize whether the user is already exist or no in our websites. 
+</br>
+![Sign-up-P1](READ_ME/Signup.png)
+## Forgot Password Page:
+
