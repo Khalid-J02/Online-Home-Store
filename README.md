@@ -47,7 +47,7 @@ This page will make the admin able to add products to the system, such as he wil
 
 ## Admin Clients Page:
 This page will show all the customers with their information such address, name, email, and his own credit card ID. We should mention that it will be responcive and contains the header list and footer found in the home page.
-![ADC](READ_ME/ADC.png)
+![ADD](READ_ME/ADD.jpg)
 
 
 
